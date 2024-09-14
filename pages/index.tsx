@@ -27,14 +27,15 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
-          <Image
+          HELLO WORLD
+          {/* <Image
             className={styles.logo}
             src="https://nextjs.org/icons/next.svg"
             alt="Next.js logo"
             width={180}
             height={38}
             priority
-          />
+          /> */}
           <ol>
             <li>
               Get started by editing <code>pages/index.tsx</code>.
