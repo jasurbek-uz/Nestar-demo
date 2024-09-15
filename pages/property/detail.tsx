@@ -10,4 +10,5 @@ const PropertyDetail: NextPage = () => {
 	);
 };
 
+
 export default withLayoutBasic(PropertyDetail);
