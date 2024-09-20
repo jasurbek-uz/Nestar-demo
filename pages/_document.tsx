@@ -1,7 +1,6 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
 
-// Biz bu yerda websaytimizni meta logosi nomi va rasmi internnetdan chiqib turadigan qilamiz shu faylda
 export default function Document() {
 	return (
 		<Html lang="en">
@@ -10,10 +9,10 @@ export default function Document() {
 				<meta name="title" content="Nestar Demo" /> 
 				<meta name="robots" content="index, follow" />
 				<link rel="icon" href="/img/logo/favicon.svg" />
-
+       /seo */
 				<meta
 					name="keyword"
-					content={"nestar, nestar.uz, devex mern, mern nest js fullstack"} // modify
+					content={"nestar, nestar.uz, devex mern, mern nest js fullstack"} 
 				/>
 				<meta
 					name="description"
