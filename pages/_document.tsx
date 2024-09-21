@@ -9,7 +9,6 @@ export default function Document() {
 				<meta name="title" content="Nestar Demo" /> 
 				<meta name="robots" content="index, follow" />
 				<link rel="icon" href="/img/logo/favicon.svg" />
-       /seo */
 				<meta
 					name="keyword"
 					content={"nestar, nestar.uz, devex mern, mern nest js fullstack"} 
