@@ -41,4 +41,5 @@ const withLayoutBasic = (Component: any) => {
 		);
 	};
 };
+
 export default withLayoutBasic;
